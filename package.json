@@ -1,0 +1,22 @@
+{
+  "name": "doctorhandler",
+  "version": "1.0.0",
+  "description": "command handler for discord bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamilleAbella/DoctorHandler.git"
+  },
+  "author": "ghom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamilleAbella/DoctorHandler/issues"
+  },
+  "homepage": "https://github.com/CamilleAbella/DoctorHandler#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
